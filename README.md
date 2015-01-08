@@ -1,6 +1,6 @@
 # StartProject iOS
 
-This is an iOS App (iPhone) that communicates in UDP to the TI CC3200 LaunchPad running the startproject_cc3200_ti-rtos project
+This is an iOS App (iPhone) that communicates in UDP to the TI CC3200 LaunchPad running the startproject_cc3200_ti-rtos project - https://github.com/remixed123/startproject_cc3200_ti-rtos
 
 ### Features
 
